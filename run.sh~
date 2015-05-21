@@ -1,0 +1,4 @@
+#!/bin/bash
+
+javac -cp '.:guava-16.0.1.jar' Main.java
+java -cp '.:guava-16.0.1.jar' Main
